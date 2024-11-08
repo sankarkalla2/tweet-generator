@@ -486,7 +486,7 @@ const Hero = () => {
             <Badge variant="outline">UI Blocks</Badge>
             <div>
               <h1 className="mb-6 text-pretty text-2xl font-bold lg:text-7xl">
-                Build your next project with Blocks
+                Build your next project with TICCO.st
               </h1>
               <p className="text-muted-foreground lg:text-xl">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Elig
